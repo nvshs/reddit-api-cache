@@ -4,3 +4,4 @@ A cache of the reddit top 20 posts of the day from the reddit api. Updates rough
 I am running a cloudflare workers script in my personal account to update this repository every 10 minutes, although caching and stuff means it's probably accurate to within 30 minutes.
 The code to use this is in script.js.
 To use it you will have to put your github token (classic) in line 10.
+I have also created a bot account for this so that my github commit history stays trueful.
