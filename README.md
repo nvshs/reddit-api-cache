@@ -5,5 +5,5 @@ I am running a cloudflare workers script in my personal account to update this r
 The code to use this is in script.js.
 To use it you will have to put your github token (classic) in line 10.
 I have also created a bot account for this so that my github commit history stays trueful.
-# What I hope to use this for
+# Why?
 I hope to use this to create a reddit client for people who can't access it directly.
